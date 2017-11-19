@@ -3,7 +3,7 @@ layout: post
 title:  "Hello world!"
 date:   2017-08-07 00:32:19 -0400
 author: "Guangyuan Yang"
-header-img: "img/post-bg-rwd.jpg"
+header-img: "img/post-bg-trip.jpg"
 tags:
     - about
 ---

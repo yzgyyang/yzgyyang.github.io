@@ -73,7 +73,7 @@ The bug itself seems simple and silly, however, the impact of this issue is quit
 
 This made it easy for attackers to do [Man-in-the-middle attacks](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) against any secured connection using SSL/TLS (including “https://” URLs). Later, Apple published [iOS 7.0.6](https://support.apple.com/en-ca/HT202934), a security update for iOS devices, which fixed this problem.
 
-![About the security content of iOS 7.0.6](/img/in-post/apple-ios706.jpg)
+![About the security content of iOS 7.0.6](/img/in-post/post-goto-fail/apple-ios706.jpg)
 
 ## What caused this?
 
