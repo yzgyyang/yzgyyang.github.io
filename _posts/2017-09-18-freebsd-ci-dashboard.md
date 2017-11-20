@@ -10,7 +10,7 @@ tags:
     - guide
 ---
 
-> As a proof-of concept side project when I was an intern at the FreeBSD Foundation ([May 2017 Development Projects Update](https://www.freebsdfoundation.org/blog/may-2017-development-projects-update/)), this article was originally posted on the [FreeBSD Foundation Blog Site](https://www.freebsdfoundation.org/news-and-events/blog/blog-post/building-a-physical-freebsd-build-status-dashboard/).
+> As a proof-of-concept side project when I was an intern at the FreeBSD Foundation ([May 2017 Development Projects Update](https://www.freebsdfoundation.org/blog/may-2017-development-projects-update/)), this article was originally posted on the [FreeBSD Foundation Blog Site](https://www.freebsdfoundation.org/news-and-events/blog/blog-post/building-a-physical-freebsd-build-status-dashboard/).
 
 FreeBSD now has a number of continuous integration jobs on Jenkins CI to build and test FreeBSD on various architectures, and the newly implemented [Tinderbox View](https://ci.freebsd.org/tinderbox/) presents a high-level, simple dashboard to the real-time [FreeBSD CI](https://ci.freebsd.org/) build status.
 
