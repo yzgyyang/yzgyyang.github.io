@@ -86,13 +86,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "Zhenqi Liu",
+        href: "https://echoliu.me/"
     }
 ]
