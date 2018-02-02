@@ -92,5 +92,9 @@ friends: [
     {
         title: "Blake Wang",
         href: "http://blakewang.me/"
+    },
+    {
+        title: "Dian Tang",
+        href: "http://tangdian.ca/"
     }
 ]
