@@ -1,7 +1,10 @@
 _site
+Gemfile.lock
+vendor
 node_modules
 npm-debug.log
 .jekyll-cache
+.bundle
 .DS_Store
 */.DS_Store
 */*/.DS_Store
