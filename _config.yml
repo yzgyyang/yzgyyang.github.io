@@ -87,17 +87,9 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "Zhenqi Liu",
-        href: "https://echoliu.me/"
-    },
-    {
-        title: "Blake Wang",
-        href: "http://blakewang.me/"
-    },
-    {
-        title: "Dian Tang",
-        href: "http://tangdian.ca/"
-    }
-]
+#friends: [
+#    {
+#        title: "Zhenqi Liu",
+#        href: "https://echoliu.me/"
+#    }
+#]
